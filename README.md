@@ -8,9 +8,9 @@ I used VScode to write the program, and the g++ VScode extension to compile it.
 Once compiled, this code will give the user an executable that can be ran with the command .\Elevator.exe
 
 **How to use:**
-Once ran, this program will then prompt the user to enter a list of comma separated floor values that they wish to visit in the elevator.
+Once ran, this program will then prompt the user to enter a list of comma separated floor values that they wish to visit in order in the elevator.
 
-The program will return how much time was spent in the elevator and which floors were visited, in order.
+The program will return how much time was spent in the elevator and which floors the user visited in order.
 
 **Assumptions:**
 

@@ -10,6 +10,7 @@ Once ran, this program will then prompt the user to enter a list of comma sperat
 The program will return how much time was spent in the elevator and which floors were visited, in order.
 
 **Assumptions:**
+
 -This code is operating off the assumption that the input list is a string of comma seperated floors that the user wishes to visit in order.
 
 -This code assumes that only Integer values entered into the list are valid. Anything else, including doubles, invalid chars etc, will be ignored.

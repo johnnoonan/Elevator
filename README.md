@@ -7,13 +7,13 @@ This project was written in C++ and compiled using MinGW.
 I used VScode to write the program, and the g++ VScode extension to compile it. 
 
 **How to use:**
-Once ran, this program will then prompt the user to enter a list of comma sperated floor values that they wish to visit in the elevator.
+Once ran, this program will then prompt the user to enter a list of comma separated floor values that they wish to visit in the elevator.
 
 The program will return how much time was spent in the elevator and which floors were visited, in order.
 
 **Assumptions:**
 
--This code is operating off the assumption that the input list is a string of comma seperated floors that the user wishes to visit in order.
+-This code is operating off the assumption that the input list is a string of comma separated floors that the user wishes to visit in order.
 
 -This code assumes that only Integer values entered into the list are valid. Anything else, including doubles, invalid chars etc, will be ignored.
 	For example, if "10, 2.5, #, abc, 5", is entered as the list.  The program will remove 2.5, #, and abc.  Then continue to run using the valid 

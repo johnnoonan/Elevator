@@ -2,7 +2,9 @@
 Elevator program that tracks a users time spent in an elevator and which floors were visited.
 
 **Build Details:**
-This project was written in C++ and compiled using MinGW.
+
+This project was written in C++ and compiled using MinGW. 
+I used VScode to write the program, and the g++ VScode extension to compile it. 
 
 **How to use:**
 Once ran, this program will then prompt the user to enter a list of comma sperated floor values that they wish to visit in the elevator.
